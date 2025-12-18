@@ -1,5 +1,5 @@
 # Ultrasound-DETR
-Ultrasound-DETR: A Decoupled and Hybrid DETR Network for Ultrasound Nodule Detection
+Ultrasound-DETR: Prior-Modulated DETR for Ultrasound Nodule Detection
 
 This is the code repository for Ultrasound-DETR.   
 
